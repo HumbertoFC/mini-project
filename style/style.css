@@ -1,0 +1,25 @@
+*{
+    font-style:italic;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align: center;
+}
+
+header{
+    border-bottom:10px solid #DDAF94;
+    text-align: right;
+background-color: #266150;
+}
+
+div{
+    border: 15px solid salmon;
+    padding: 55px;
+    margin: 176px;
+    background-color: slategray;
+}
+
+#text-center{
+    text-align: center;
+}
